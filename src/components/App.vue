@@ -7,8 +7,7 @@
       </a>
       <h1><a href="#/">Hacker News</a></h1>
       <span class="source">
-        Built with <a href="http://vuejs.org" target="_blank">Vue.js</a> |
-        <a href="https://github.com/vuejs/vue-hackernews" target="_blank">Source</a>
+        Credits to <a href="https://github.com/vuejs/vue-hackernews" target="_blank">Source</a>
       </span>
     </div>
     <!-- main view -->
